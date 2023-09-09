@@ -14,10 +14,13 @@ h1{
 h2{
     text-align:center;
     font-family:Geneva, Tahoma, sans-serif;
+    display:inline;
 }
 
 #para{
     font-family:"Times New Roman", Tahoma;
+    text-align:center;
+    display:inline;
 }
 h3{
     background-color:black;
@@ -33,4 +36,5 @@ h4{
 }
 .list{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:  red solid 2px;
 }
